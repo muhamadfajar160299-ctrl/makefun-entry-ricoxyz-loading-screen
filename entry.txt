@@ -1,0 +1,1 @@
+Tip: the agent finished in four seconds and sounds very sure of itself. That's exactly when you read the diff.
